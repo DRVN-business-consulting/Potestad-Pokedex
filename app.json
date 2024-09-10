@@ -2,6 +2,7 @@
   "expo": {
     "name": "react-potestad-pokedex",
     "slug": "react-potestad-pokedex",
+    "scheme": "react-potestad-pokedex",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
